@@ -109,5 +109,5 @@
 ## 🔗 Repository Link
 
 ```text
-https://github.com/USERNAME/se-bootcamp-portfolio
+https://github.com/Vergil-sparda01/se-bootcamp-portfolio.git
 ```
