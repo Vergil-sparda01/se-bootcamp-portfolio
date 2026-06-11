@@ -8,28 +8,27 @@
 
 | รายการ | ข้อมูลของฉัน |
 |---|---|
-| Name | |
-| Nickname | |
+| Name | นาย พงศกร วงศ์ใหญ่ |
+| Nickname | ม่อน |
 | Program | Software Engineering, RMUTL |
-| Background | |
-| Interest | Web / Mobile / AI / Game / IoT / Data / UX/UI / ยังไม่แน่ใจ |
-| Goal | |
+| Background | จบการศึกษาจาก วิทยาลัยอาชีวะศึกษาลำปาง |
+| Interest | Web / Game / IoT / Data / UX/UI / |
+| Goal | เป็นพัฒนาเกม |
 
 ---
 
 ## 🎯 Why I Study Software Engineering
 
-เขียนสั้น ๆ ว่าทำไมถึงสนใจเรียนวิศวกรรมซอฟต์แวร์
-
+ต้องการพัฒนาทักษะการเขียนโค้ด การออกแบบระบบ รวมถึงการใช้เทคโนโลยีมาแก้ปัญหาและสร้างประโยชน์ให้กับผู้คนในวงกว้าง
 ---
 
 ## 📚 What I Learned
 
 ### Day 01: Digital Foundation
-- 
+- เรียนรู้พื้นฐานดิจิทัล เทคโนโลยีสารสนเทศและ AI
 
 ### Day 02: Logic & Flowgorithm Lab 1
-- 
+- ฝึกคิดเชิงตรรกะและเขียนผังงาน flowchart
 
 ### Day 03: Flowgorithm Lab 2–3
 - 
